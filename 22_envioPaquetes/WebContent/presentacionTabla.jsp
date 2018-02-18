@@ -37,7 +37,7 @@
 					<p>
 					<tr>
 						<td><c:out  value="${envios.idEnvio}"></c:out></td>
-						<td><c:out value="${envios.origen}"></c:out></td>
+				<td><a href="mapa.jsp">	<c:out value="${envios.origen}"></c:out></a>	</td>
 						<td><c:out value="${envios.destino}"></c:out></td>
 						<td><c:out value="${envios.tamano}"></c:out></td>
 						<td><c:out value="${envios.fecha}"></c:out></td>
