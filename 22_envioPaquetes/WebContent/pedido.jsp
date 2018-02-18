@@ -3,6 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="es">
 <head>
+
 <!-- Estilos de calendario cogidos de la pagina https://desarrolloweb.com/articulos/implementar-plugin-calendario-jquery.html -->
 <link href="calendario_dw/calendario_dw-estilos.css" type="text/css" rel="STYLESHEET">
 <style type="text/css">
